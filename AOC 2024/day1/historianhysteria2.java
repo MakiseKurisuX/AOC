@@ -37,7 +37,7 @@ public class historianhysteria {
     FastScanner() {
         try {
             // Replace "input.in" with your file name or path
-            br = new BufferedReader(new FileReader("input1.in"));
+            br = new BufferedReader(new FileReader("input.in"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
